@@ -7,6 +7,7 @@ public class Bisiklet {
 		System.out.println("bugun ikinci gun cok heyecanliyim");
 		System.out.println("acaba yaptiklarimi patron begendi mi");
 		System.out.println("olmamis duzelt");
+		System.out.println("sayin patron simdi nasil olmus?");
 		
 		
 
